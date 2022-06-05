@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivajit410/NodeJS_resources.git"
+  },
+  "author": "Shivaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivajit410/NodeJS_resources/issues"
+  },
+  "homepage": "https://github.com/shivajit410/NodeJS_resources#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-rate-limit": "^6.4.0"
+  }
+}
