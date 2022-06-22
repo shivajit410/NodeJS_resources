@@ -1,7 +1,0 @@
-GET http://localhost:3000/
-
-###
-GET http://localhost:3000/open
-
-###
-POST http://localhost:3000/login
